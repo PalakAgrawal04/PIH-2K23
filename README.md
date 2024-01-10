@@ -1,6 +1,6 @@
-# PIH Login and Registration Page
+# PIH Landing Page
 
-A Responsive Login and Registration Page.
+A Responsive Landing page with Login and Registration Page.
 
 ## Installation
 
